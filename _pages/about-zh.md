@@ -60,9 +60,9 @@ lang: zh
 
 <h3 id="international-conferences">国际会议</h3>
 
-- **[C27]** Nozomi Tsunoda, <u>Ao Guo</u>, et al. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios,"** ISASE 2026.
-- **[C26]** <u>Ao Guo</u>, et al. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025.
-- **[C25]** <u>Ao Guo</u>, et al. **"Integrating Physiological, Speech, and Textual Information Toward Real-Time Recognition of Emotional Valence in Dialogue,"** in Proc. of **SIGDIAL** 2025. **<span style="color: #b04444;">[Best Paper Nominee]</span>**
+- **[C27]** Nozomi Tsunoda, Lifei Wang, Maho Sato, <u>Ao Guo</u>, Jianhua Ma. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios,"** ISASE 2026.
+- **[C26]** <u>Ao Guo</u>, Shota Mochizuki, Sanae Yamashita, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025.
+- **[C25]** Jingjing Jiang, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Integrating Physiological, Speech, and Textual Information Toward Real-Time Recognition of Emotional Valence in Dialogue,"** in Proc. of **SIGDIAL** 2025. **<span style="color: #b04444;">[Best Paper Nominee]</span>**
 - **[C24]** Kentaro Taki, Jianhua Ma, <u>Ao Guo</u>, Muxin Ma, Alex Qi. **"Multilevel Classification of Drowsiness States Using ECG With Optimized Convolutional Neural Network,"** in Proc. of IEEE **CPSCom** 2023. **<span style="color: #b04444;">[杰出论文奖]</span>**
 - **[C23]** Sanae Yamashita, Koji Inoue, <u>Ao Guo</u>, Shota Mochizuki, Tatsuya Kawahara, Ryuichiro Higashinaka. **"RealPersonaChat: A Realistic Persona Chat Corpus with Interlocutors' Own Personalities,"** in Proc. of **PACLIC** 2023. [[论文](https://aclanthology.org/2023.paclic-1.85/)]
 - **[C22]** <u>Ao Guo</u>, Walid Brahim, Jianhua Ma. **"Influences of Mental Stress Level on Individual Identification using Wearable Biosensors,"** in Proc. of IEEE **CyberSciTech** 2023. [[论文](https://ieeexplore.ieee.org/abstract/document/10361426/)]
@@ -92,14 +92,14 @@ lang: zh
 
 - **[D10]** 阪井瞭介, Jiang Shuting, <u>郭傲</u>, 高道慎之介, 小川哲司, 東中竜一郎. 「一人称・三人称視点対話収録システムとエゴセントリック津軽弁音声対話コーパスの構築」言語処理学会 第32回年次大会 (NLP2026), 2026.
 - **[D9]** 江舒婷, <u>郭傲</u>, 青木剛, 中西美和, 東中竜一郎. 「フォーカシング対話の収集とLLMを用いたEXPスケールの自動評定」言語処理学会 第32回年次大会 (NLP2026), 2026.
-- **[D8]** 植竹眞斗, 窪田智徳, <u>郭傲</u>, 他. 「操作者と操作対象ロボットとの対話により長時間操作の退屈感を低減する遠隔操作システムの開発」人工知能学会全国大会 (JSAI2025), 2025.
-- **[D7]** 姜菁菁, <u>郭傲</u>, 東中竜一郎. 「対話中の生体信号を用いた時系列モデルによる感情分類」人工知能学会全国大会 (JSAI2025), 2025.
+- **[D8]** 植竹眞斗, 窪田智徳, 岩﨑雅矢, 望月翔太, 山下紗苗, <u>郭傲</u>, 星牟禮健也, 馬場惇, 東中竜一郎, 佐藤理史. 「操作者と操作対象ロボットとの対話により長時間操作の退屈感を低減する遠隔操作システムの開発」人工知能学会全国大会 (JSAI2025), 2025.
+- **[D7]** Jingjing Jiang, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Classification of Emotional Valence Based on Physiological Signals in Conversations Using a Time-Series Model,"** 人工知能学会全国大会 (JSAI2025), 2025.
 - **[D6]** 平井龍, <u>郭傲</u>, 東中竜一郎. 「タスク指向型対話システムへの項目反応理論の適用によるユーザのタスク達成能力の推定」言語処理学会 第30回年次大会 (NLP2024), 2024.
 - **[D5]** 山下紗苗, 井上昂治, <u>郭傲</u>, 望月翔太, 河原達也, 東中竜一郎. 「RealPersonaChat: 話者本人のペルソナと性格特性を含んだ雑談対話コーパス」言語処理学会 第30回年次大会 (NLP2024), 2024.
-- **[D4]** Zhiying Huang, <u>Ao Guo</u>, Jianhua Ma. 「DEAPデータセットに基づく畳み込みニューラルネットワークを用いたコンテンツ依存型と独立型の感情認識の比較研究」人工知能学会全国大会 (JSAI2024), 2024.
-- **[D3]** 姜菁菁, <u>郭傲</u>, 東中竜一郎. 「異種センサを用いたマルチモーダル対話データの収集とセンサ情報と主観評価の関係分析」人工知能学会全国大会 (JSAI2024), 2024.
-- **[D2]** 滝健太郎, <u>郭傲</u>, 馬建華. 「マルチモーダル生理信号データを用いた眠気状態の多レベル分類」人工知能学会全国大会 (JSAI2024), 2024.
-- **[D1]** 平井龍, 大橋厚元, <u>郭傲</u>, 東中竜一郎. 「タスク指向型対話システムにおけるチュートリアルを用いた発話理解の改善」人工知能学会全国大会 (JSAI2022), 2022. [[论文](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2F4GS903/_article/-char/ja/)]
+- **[D4]** Zhiying Huang, <u>Ao Guo</u>, Jianhua Ma. **"A Comparative Study of Content Dependent and Independent Emotion Recognition using Convolutional Neural Network Based on DEAP Dataset,"** 人工知能学会全国大会 (JSAI2024), 2024.
+- **[D3]** Jingjing Jiang, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Collection of Multimodal Dialogue Data Using Heterogeneous Sensors and Analysis of the Relationship between Sensor Information and Subjective Evaluation,"** 人工知能学会全国大会 (JSAI2024), 2024.
+- **[D2]** Kentaro Taki, <u>Ao Guo</u>, Jianhua Ma. **"Multilevel Classification of Drowsiness States Using Multimodal Physiological Signals,"** 人工知能学会全国大会 (JSAI2024), 2024.
+- **[D1]** Ryu Hirai, Atsumoto Ohashi, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Improving Utterance Understanding with a Tutorial in Task-oriented Dialogue Systems,"** 人工知能学会全国大会 (JSAI2022), 2022. [[论文](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2F4GS903/_article/-char/ja/)]
 
 <h3 id="non-refereed">非审稿论文</h3>
 
