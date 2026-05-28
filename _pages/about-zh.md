@@ -119,7 +119,7 @@ lang: zh
 <h2 id="research-projects">科研项目</h2>
 
 - **2025 – 2028** &nbsp;&nbsp;**项目负责人** —「移动对话机器人服务质量提升研究」，日本学术振兴会（JSPS）科研基金 青年科学家项目
-- **2014 – 2018** &nbsp;&nbsp;参与人 — *Research and Development of a Cyber-I Open Service Platform*，日本学术振兴会 科研基金 基盤研究(C)（项目号 26330350）
+- **2014 – 2018** &nbsp;&nbsp;研究协力者 — *Research and Development of a Cyber-I Open Service Platform*，日本学术振兴会 科研基金 基盤研究(C)（项目号 26330350）
 
 <h2 id="invited-talks">特邀报告</h2>
 

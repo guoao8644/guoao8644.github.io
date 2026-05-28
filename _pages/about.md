@@ -122,7 +122,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 <h2 id="research-projects">Research Projects</h2>
 
 - **2025 – 2028** &nbsp;&nbsp;**Principal Investigator** — *Research on Improving Hospitality of Mobile Dialogue Robots*, Japan Society for the Promotion of Science (JSPS) Grant-in-Aid for Scientific Research (Young Scientists).
-- **2014 – 2018** &nbsp;&nbsp;Co-investigator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C) (No. 26330350).
+- **2014 – 2018** &nbsp;&nbsp;Research Collaborator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C) (No. 26330350).
 
 <h2 id="invited-talks">Invited Talks</h2>
 
