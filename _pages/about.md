@@ -147,7 +147,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 **Professional Memberships**
 
-IEEE (since 2016); Association for Computational Linguistics (ACL)
+IEEE, ACL
 
 <h2 id="teaching-experiences">Teaching Experiences</h2>
 
