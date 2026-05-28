@@ -119,7 +119,7 @@ lang: ja
 <h2 id="research-projects">研究費</h2>
 
 - **2025 – 2028** &nbsp;&nbsp;**研究代表者** — 「移動型対話ロボットにおけるホスピタリティ向上に関する研究」, 日本学術振興会 科学研究費助成事業 若手研究
-- **2015 – 2018** &nbsp;&nbsp;研究分担者 — *Research and Development of a Cyber-I Open Service Platform*, JSPS 科学研究費助成事業（No. 26330350）
+- **2014 – 2018** &nbsp;&nbsp;研究分担者 — *Research and Development of a Cyber-I Open Service Platform*, 日本学術振興会 科学研究費助成事業 基盤研究(C)（No. 26330350）
 
 <h2 id="invited-talks">招待講演</h2>
 
