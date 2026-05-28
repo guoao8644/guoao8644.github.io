@@ -51,3 +51,38 @@
     font-weight: 700;
   }
 }
+
+.lang-switcher {
+  float: right;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.85em;
+
+  &__item {
+    display: inline-block;
+    padding: 0 0.4em;
+    list-style: none;
+
+    a {
+      color: #888;
+      text-decoration: none;
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    &.is-active a {
+      color: $text-color;
+      font-weight: 700;
+    }
+  }
+
+  &__sep {
+    color: $border-color;
+    list-style: none;
+  }
+}

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "AO GUO / 郭 傲"
 title_separator          : "-"
 name                     : &name "AO GUO"
-description              : &description "PostDoc at Nagoya University"
+description              : &description "Assistant Professor at Nagoya University"
 url                      : https://guoao8644.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guoao8644.github.io"
@@ -82,13 +82,15 @@ analytics:
 author:
   name             : "AO GUO / 郭 傲"
   avatar           : "profile.jpeg"
-  bio              : "PostDoc at Nagoya University"
+  bio              : "Assistant Professor at Nagoya University"
   location         : "Nagoya, Japan"
   employer         : "Nagoya University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xBoUb2gAAAAJ"
-  email            : "guo.ao.i6@f.mail.nagoya-u.ac.jp"
+  email            : "guo@i.nagoya-u.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchmap      : "https://researchmap.jp/guoao8644"
+  orcid            : "https://orcid.org/0000-0001-8631-5457"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +105,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

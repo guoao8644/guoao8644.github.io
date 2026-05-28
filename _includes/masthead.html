@@ -1,5 +1,7 @@
 {% include base_path %}
 
+{% assign current_lang = page.lang | default: "en" %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -17,6 +19,19 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <ul class="lang-switcher">
+          <li class="lang-switcher__item{% if current_lang == 'ja' %} is-active{% endif %}">
+            <a href="{{ base_path }}/ja/" hreflang="ja">日本語</a>
+          </li>
+          <li class="lang-switcher__sep">|</li>
+          <li class="lang-switcher__item{% if current_lang == 'en' %} is-active{% endif %}">
+            <a href="{{ base_path }}/" hreflang="en">English</a>
+          </li>
+          <li class="lang-switcher__sep">|</li>
+          <li class="lang-switcher__item{% if current_lang == 'zh' %} is-active{% endif %}">
+            <a href="{{ base_path }}/zh/" hreflang="zh">中文</a>
+          </li>
+        </ul>
       </nav>
     </div>
   </div>
