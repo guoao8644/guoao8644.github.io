@@ -15,7 +15,7 @@ Pursuing this vision, I work across several complementary directions, all center
 
 - **Mobile robot guidance with hospitality** — designing service robots that guide and assist users in real environments with the warmth and adaptability of a human host *(my current JSPS Kakenhi project)*.
 - **Personality-aware dialogue systems** — making dialogue systems recognize each user's personality and adapt how they speak and decide accordingly.
-- **Understanding the user** — modeling user emotion, stress, behavior, and intent from multimodal signals (speech, text, biosignals) to give machines the situational awareness they need.
+- **User Modeling** — modeling user emotion, stress, behavior, and intent from multimodal signals (speech, text, biosignals) to give AI the situational awareness it needs.
 
 I am based in [Prof. Ryuichiro Higashinaka's Lab](https://www.ds.is.i.nagoya-u.ac.jp/) at the Graduate School of Informatics, [Nagoya University](https://www.nagoya-u.ac.jp/), where these threads come together in real-world human–machine interaction. I received my Ph.D. in Computer and Information Science from Hosei University in 2021, and worked as a Postdoctoral Researcher at Nagoya University from 2021 to 2026 before joining as a faculty member.
 
@@ -122,7 +122,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 <h2 id="research-projects">Research Projects</h2>
 
 - **2025 – 2028** &nbsp;&nbsp;**Principal Investigator** — *Research on Improving Hospitality of Mobile Dialogue Robots*, Japan Society for the Promotion of Science (JSPS) Grant-in-Aid for Scientific Research (Young Scientists).
-- **2014 – 2018** &nbsp;&nbsp;Research Collaborator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C) (No. 26330350).
+- **2014 – 2018** &nbsp;&nbsp;Research Collaborator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C).
 
 <h2 id="invited-talks">Invited Talks</h2>
 
