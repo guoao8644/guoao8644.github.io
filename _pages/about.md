@@ -23,7 +23,9 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="news">News</h2>
 
-- **2026-09** &nbsp;New paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **ACII 2026** (Late-Breaking Results)
+- **2026-10** &nbsp;New paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **PACLIC 2026**
+- **2026-10** &nbsp;Two papers accepted: "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" at **GAI-HyperI 2026** and "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" at **IEEE SWC 2026**
+- **2026-09** &nbsp;New paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **ACII 2026** (Late-Breaking Results, ACIIW proceedings)
 - **2026-04** &nbsp;Started as **Assistant Professor** at the Graduate School of Informatics, Nagoya University
 - **2026-01** &nbsp;New paper "Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios" accepted at ISASE 2026
 - **2025-08** &nbsp;Received **Best Paper Nominee** at **SIGDIAL 2025**
@@ -65,7 +67,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h3 id="international-conferences">International Conferences</h3>
 
-- **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of the 14th Int'l Conf. on Affective Computing and Intelligent Interaction (**ACII**), Late-Breaking Results, 2026. [[Paper](https://doi.org/10.1109/aciiw71585.2026.11712086)]
+- **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of the 14th Int'l Conf. on Affective Computing and Intelligent Interaction Workshops and Demos (**ACIIW**), Late-Breaking Results, 2026. [[Paper](https://doi.org/10.1109/aciiw71585.2026.11712086)]
 - **[C39]** Nozomi Tsunoda, Lifei Wang, Maho Sato, <u>Ao Guo</u>, Jianhua Ma. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios: Cross-game Evaluation and Individual Difference Analysis,"** International Symposium on Affective Science and Engineering (ISASE), 2026.
 - **[C38]** <u>Ao Guo</u>, Shota Mochizuki, Sanae Yamashita, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025. [[Paper](https://aclanthology.org/2025.ijcnlp-long.87/)]
 - **[C37]** Manato Uetake, Tomonori Kubota, Masaya Iwasaki, Shota Mochizuki, Sanae Yamashita, <u>Ao Guo</u>, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka, Satoshi Sato, Kohei Ogawa. **"Teleoperation System Enabling Operator-Robot Dialogue for Reducing Operator Boredom during Long-Duration Tasks,"** in Proc. of the 13th Int'l Conf. on Human-Agent Interaction (**HAI**), 2025. [[Paper](https://doi.org/10.1145/3765766.3765821)]
