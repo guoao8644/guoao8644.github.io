@@ -156,7 +156,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 **Conference Organization**
 
-- *Organizer*: [Dialogue System Live Competition 8](https://sites.google.com/view/dslc8/) (対話システムライブコンペティション8), JSAI SIG-SLUD, 2026
+- *Organizer*: [Dialogue System Live Competition 8](https://sites.google.com/view/dslc8/) (対話システムライブコンペティション8), 2026
 - *Program Chair*: IEEE CyberSciTech 2025 – 2026; IEEE PICom 2025; GAI-HyperI 2024 – 2026
 - *Track Chair*: IEEE PICom 2024
 - *Publication Chair*: IEEE CBDCom 2024; IEEE CyberSciTech 2024
