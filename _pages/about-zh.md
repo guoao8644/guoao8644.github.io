@@ -20,7 +20,7 @@ lang: zh
 
 <h2 id="news">最新动态</h2>
 
-- **2026-09** &nbsp;论文 "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" 在 **ACII 2026**（Workshops and Demos, ACIIW）发表
+- **2026-09** &nbsp;论文 "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" 在 **ACII 2026**（Late-Breaking Results）发表
 - **2026-04** &nbsp;入职名古屋大学信息学研究科，担任 **助教（Assistant Professor）**
 - **2026-01** &nbsp;论文 "Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios" 被 ISASE 2026 录用
 - **2025-08** &nbsp;在 **SIGDIAL 2025** 获得 **Best Paper Nominee** 奖项
@@ -62,7 +62,7 @@ lang: zh
 
 <h3 id="international-conferences">国际会议</h3>
 
-- **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of ACII 2026 Workshops and Demos (**ACIIW**), 2026. [[论文](https://doi.org/10.1109/aciiw71585.2026.11712086)]
+- **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of **ACII** 2026 (Late-Breaking Results). [[论文](https://doi.org/10.1109/aciiw71585.2026.11712086)]
 - **[C39]** Nozomi Tsunoda, Lifei Wang, Maho Sato, <u>Ao Guo</u>, Jianhua Ma. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios: Cross-game Evaluation and Individual Difference Analysis,"** ISASE 2026.
 - **[C38]** <u>Ao Guo</u>, Shota Mochizuki, Sanae Yamashita, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025. [[论文](https://aclanthology.org/2025.ijcnlp-long.87/)]
 - **[C37]** Manato Uetake, Tomonori Kubota, Masaya Iwasaki, Shota Mochizuki, Sanae Yamashita, <u>Ao Guo</u>, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka, Satoshi Sato, Kohei Ogawa. **"Teleoperation System Enabling Operator-Robot Dialogue for Reducing Operator Boredom during Long-Duration Tasks,"** in Proc. of **HAI** 2025. [[论文](https://doi.org/10.1145/3765766.3765821)]
