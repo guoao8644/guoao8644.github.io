@@ -32,12 +32,12 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="research-interests">Research Interests</h2>
 
-- **Mobile robot guidance with hospitality** — service robots that adapt to users in real environments
-- **Personality-aware dialogue systems** — adaptive dialogue strategies based on user personality
-- **User state prediction** — emotion, stress, attention, intent from multimodal signals
-- **Wearable-based individual identification** — biometric identification from ECG and other physiological signals across emotional and stress states
-- **Persona character modeling** — comprehensive modeling of individual user traits
-- **Personalized generative AI** — adapting large language models to individual users
+- **Hospitable mobile guide robots**: service robots that guide and assist people in real environments with human-like hospitality
+- **Multimodal user state estimation**: emotion, stress, attention, and intent from speech, text, and physiological signals
+- **Personality-adaptive dialogue systems**: dialogue strategies and speaking styles adapted to each user’s personality
+- **User persona modeling**: long-term modeling of individual traits, preferences, and background, as opposed to momentary states
+- **Wearable biometric identification**: identifying individuals from ECG and other physiological signals, robust across emotional and stress states
+- **Personalized large language models**: adapting LLMs to individual users’ traits and preferences
 
 <h2 id="experience">Research Experience</h2>
 
