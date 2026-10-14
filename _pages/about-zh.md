@@ -21,11 +21,11 @@ lang: zh
 <h2 id="news">最新动态</h2>
 
 - **2026-10** &nbsp;将在 **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**（墨尔本，2026 年 11 月）主讲 Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation"
-- **2026-10** &nbsp;论文 "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" 被 **[PACLIC 2026](https://paclic2026.github.io/)** 录用
-- **2026-09** &nbsp;论文 "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" 在 **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results，收录于 ACIIW 论文集）发表
-- **2026-09** &nbsp;论文 "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" 被 **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** 录用
-- **2026-07** &nbsp;论文 "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" 被 **[APSIPA ASC 2026](https://www.apsipa2026.org/)** 录用
-- **2026-07** &nbsp;论文 "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" 被 **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** 录用
+- **2026-10** &nbsp;合著论文 "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" 被 **[PACLIC 2026](https://paclic2026.github.io/)** 录用
+- **2026-09** &nbsp;合著论文 "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" 在 **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results，收录于 ACIIW 论文集）发表
+- **2026-09** &nbsp;合著论文 "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" 被 **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** 录用
+- **2026-07** &nbsp;合著论文 "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" 被 **[APSIPA ASC 2026](https://www.apsipa2026.org/)** 录用
+- **2026-07** &nbsp;合著论文 "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" 被 **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** 录用
 - **2026-04** &nbsp;入职名古屋大学信息学研究科，担任 **助教（Assistant Professor）**
 
 <h2 id="research-interests">研究方向</h2>
