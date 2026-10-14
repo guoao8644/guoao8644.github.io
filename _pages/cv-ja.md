@@ -29,16 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;海外渡航研究者支援プログラム（国際情報科学振興財団 IISF）
 - **2016** &nbsp;&nbsp;Best Paper Award, 9th IEEE Int'l Conf. on Cyber Physical and Social Computing
 
-<h2 id="research-projects">研究費</h2>
-
-- **2025 – 2028** &nbsp;&nbsp;**研究代表者** — 「移動対話ロボットのホスピタリティ向上に関する研究」, 日本学術振興会 科学研究費助成事業 若手研究
-- **2014 – 2018** &nbsp;&nbsp;研究協力者 — *Research and Development of a Cyber-I Open Service Platform*, 日本学術振興会 科学研究費助成事業 基盤研究(C)
-
-<h2 id="teaching-experiences">教育</h2>
-
-- **2026 年 – 現在** &nbsp;&nbsp;**名古屋大学 情報学部**
-  - 計算機科学実験 a・b
-  - ソフトウェア開発法と実習
-  - オブジェクト指向プログラミングと実習 2
-- **2024 年 – 現在** &nbsp;&nbsp;**法政大学大学院 理工学研究科**
-  - 大規模言語モデルを用いた生成 AI
+*関連ページ*: [研究プロジェクト](/ja/projects/) &nbsp;·&nbsp; [教育](/ja/teaching/) &nbsp;·&nbsp; [講演・学術活動](/ja/activities/) &nbsp;·&nbsp; [業績](/ja/publications/)

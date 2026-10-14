@@ -29,16 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;Support Program for Researchers Traveling Abroad, International Information Science Foundation (IISF).
 - **2016** &nbsp;&nbsp;Best Paper Award, 9th IEEE Int'l Conf. on Cyber Physical and Social Computing.
 
-<h2 id="research-projects">Research Projects</h2>
-
-- **2025 – 2028** &nbsp;&nbsp;**Principal Investigator** — *Research on Improving Hospitality of Mobile Dialogue Robots*, Japan Society for the Promotion of Science (JSPS) Grant-in-Aid for Scientific Research (Young Scientists).
-- **2014 – 2018** &nbsp;&nbsp;Research Collaborator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C).
-
-<h2 id="teaching-experiences">Teaching Experiences</h2>
-
-- **2026 – Present** &nbsp;&nbsp;**Nagoya University, Faculty of Informatics**
-  - Computer Science Experiments a & b
-  - Software Development Methods and Practice
-  - Object-Oriented Programming and Practice 2
-- **2024 – Present** &nbsp;&nbsp;**Hosei University, Graduate School of Science and Engineering**
-  - Generative AI using Large Language Models
+*See also*: [Research Projects](/projects/) &nbsp;·&nbsp; [Teaching](/teaching/) &nbsp;·&nbsp; [Talks and Activities](/activities/) &nbsp;·&nbsp; [Publications](/publications/)

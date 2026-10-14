@@ -4,27 +4,39 @@ en:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /cv/
+  - title: "Projects"
+    url: /projects/
   - title: "Talks & Activities"
     url: /activities/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
 
 ja:
   - title: "自己紹介"
     url: /ja/
   - title: "業績"
     url: /ja/publications/
-  - title: "経歴"
-    url: /ja/cv/
+  - title: "研究プロジェクト"
+    url: /ja/projects/
   - title: "講演・学術活動"
     url: /ja/activities/
+  - title: "教育"
+    url: /ja/teaching/
+  - title: "経歴"
+    url: /ja/cv/
 
 zh:
   - title: "简介"
     url: /zh/
   - title: "研究成果"
     url: /zh/publications/
-  - title: "履历"
-    url: /zh/cv/
+  - title: "科研项目"
+    url: /zh/projects/
   - title: "报告与学术活动"
     url: /zh/activities/
+  - title: "教学"
+    url: /zh/teaching/
+  - title: "履历"
+    url: /zh/cv/

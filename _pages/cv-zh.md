@@ -29,16 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;国际情报科学振兴财团（IISF）海外研究者派遣资助
 - **2016** &nbsp;&nbsp;最佳论文奖，IEEE 第 9 届网络、物理与社会计算国际会议
 
-<h2 id="research-projects">科研项目</h2>
-
-- **2025 – 2028** &nbsp;&nbsp;**项目负责人** —「移动对话机器人服务质量提升研究」，日本学术振兴会（JSPS）科研基金 青年科学家项目
-- **2014 – 2018** &nbsp;&nbsp;研究协力者 — *Research and Development of a Cyber-I Open Service Platform*，日本学术振兴会 科研基金 基盤研究(C)
-
-<h2 id="teaching-experiences">教学经历</h2>
-
-- **2026 年 – 至今** &nbsp;&nbsp;**名古屋大学 信息学部**
-  - 计算机科学实验 a/b
-  - 软件开发方法与实践
-  - 面向对象程序设计与实践 2
-- **2024 年 – 至今** &nbsp;&nbsp;**法政大学 理工学研究科**
-  - 基于大语言模型的生成式 AI
+*相关页面*：[科研项目](/zh/projects/) &nbsp;·&nbsp; [教学](/zh/teaching/) &nbsp;·&nbsp; [报告与学术活动](/zh/activities/) &nbsp;·&nbsp; [研究成果](/zh/publications/)
