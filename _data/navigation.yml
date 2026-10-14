@@ -1,17 +1,30 @@
-# main links links
-main:
-
+# Main navigation, one list per page language (see _includes/masthead.html)
+en:
+  - title: "About"
+    url: /
   - title: "Publications"
-    url: /#publications
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "Talks & Activities"
+    url: /activities/
 
-  - title: "Honors and Awards"
-    url: /#honors-and-awards 
-  
-  - title: "Research Projects"
-    url: /#research-projects
+ja:
+  - title: "自己紹介"
+    url: /ja/
+  - title: "業績"
+    url: /ja/publications/
+  - title: "経歴"
+    url: /ja/cv/
+  - title: "講演・学術活動"
+    url: /ja/activities/
 
-  - title: "Scientific Activities"
-    url: /#scientific-activities
-
-  - title: "Teaching Experiences"
-    url: /#teaching-experiences
+zh:
+  - title: "简介"
+    url: /zh/
+  - title: "研究成果"
+    url: /zh/publications/
+  - title: "履历"
+    url: /zh/cv/
+  - title: "报告与学术活动"
+    url: /zh/activities/

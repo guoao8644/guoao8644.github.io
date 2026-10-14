@@ -1,6 +1,10 @@
 {% include base_path %}
 
 {% assign current_lang = page.lang | default: "en" %}
+{% assign current_pid = page.page_id | default: "home" %}
+{% assign nav_links = site.data.navigation[current_lang] | default: site.data.navigation.en %}
+{% if current_lang == "en" %}{% assign lang_home = "/" %}{% else %}{% assign lang_home = "/" | append: current_lang | append: "/" %}{% endif %}
+{% if current_pid == "home" %}{% assign pid_path = "" %}{% else %}{% assign pid_path = current_pid | append: "/" %}{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -8,8 +12,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{{ lang_home }}">{{ site.title }}</a></li>
+          {% for link in nav_links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
@@ -21,15 +25,15 @@
         <ul class="hidden-links hidden"></ul>
         <ul class="lang-switcher">
           <li class="lang-switcher__item{% if current_lang == 'ja' %} is-active{% endif %}">
-            <a href="{{ base_path }}/ja/" hreflang="ja">日本語</a>
+            <a href="{{ base_path }}/ja/{{ pid_path }}" hreflang="ja">日本語</a>
           </li>
           <li class="lang-switcher__sep">|</li>
           <li class="lang-switcher__item{% if current_lang == 'en' %} is-active{% endif %}">
-            <a href="{{ base_path }}/" hreflang="en">English</a>
+            <a href="{{ base_path }}/{{ pid_path }}" hreflang="en">English</a>
           </li>
           <li class="lang-switcher__sep">|</li>
           <li class="lang-switcher__item{% if current_lang == 'zh' %} is-active{% endif %}">
-            <a href="{{ base_path }}/zh/" hreflang="zh">中文</a>
+            <a href="{{ base_path }}/zh/{{ pid_path }}" hreflang="zh">中文</a>
           </li>
         </ul>
       </nav>
