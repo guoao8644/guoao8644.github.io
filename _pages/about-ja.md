@@ -20,10 +20,11 @@ lang: ja
 
 <h2 id="news">お知らせ</h2>
 
-- **2026-10** &nbsp;論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **APSIPA ASC 2026** に採択
 - **2026-10** &nbsp;論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **PACLIC 2026** に採択
-- **2026-10** &nbsp;論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **GAI-HyperI 2026** に、「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **IEEE SWC 2026** に採択
 - **2026-09** &nbsp;論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **ACII 2026**（Late-Breaking Results, ACIIW 論文集）にて発表・出版
+- **2026-09** &nbsp;論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **GAI-HyperI 2026** に採択
+- **2026-07** &nbsp;論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **APSIPA ASC 2026** に採択
+- **2026-07** &nbsp;論文「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **IEEE SWC 2026** に採択
 - **2026-04** &nbsp;名古屋大学大学院情報学研究科 **助教**に着任
 - **2026-01** &nbsp;論文「Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios」が ISASE 2026 に採択
 - **2025-08** &nbsp;**SIGDIAL 2025** にて **Best Paper Nominee** を受賞
@@ -164,7 +165,7 @@ lang: ja
 
 **所属学会**
 
-IEEE, ACL, AAAC (Association for the Advancement of Affective Computing)
+IEEE, ACL, AAAC
 
 <h2 id="teaching-experiences">教育</h2>
 

@@ -20,10 +20,11 @@ lang: zh
 
 <h2 id="news">最新动态</h2>
 
-- **2026-10** &nbsp;论文 "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" 被 **APSIPA ASC 2026** 录用
 - **2026-10** &nbsp;论文 "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" 被 **PACLIC 2026** 录用
-- **2026-10** &nbsp;论文 "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" 被 **GAI-HyperI 2026** 录用，"Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" 被 **IEEE SWC 2026** 录用
 - **2026-09** &nbsp;论文 "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" 在 **ACII 2026**（Late-Breaking Results，收录于 ACIIW 论文集）发表
+- **2026-09** &nbsp;论文 "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" 被 **GAI-HyperI 2026** 录用
+- **2026-07** &nbsp;论文 "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" 被 **APSIPA ASC 2026** 录用
+- **2026-07** &nbsp;论文 "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" 被 **IEEE SWC 2026** 录用
 - **2026-04** &nbsp;入职名古屋大学信息学研究科，担任 **助教（Assistant Professor）**
 - **2026-01** &nbsp;论文 "Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios" 被 ISASE 2026 录用
 - **2025-08** &nbsp;在 **SIGDIAL 2025** 获得 **Best Paper Nominee** 奖项
@@ -164,7 +165,7 @@ lang: zh
 
 **学会会员**
 
-IEEE, ACL, AAAC (Association for the Advancement of Affective Computing)
+IEEE, ACL, AAAC
 
 <h2 id="teaching-experiences">教学经历</h2>
 

@@ -23,10 +23,11 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="news">News</h2>
 
-- **2026-10** &nbsp;New paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **APSIPA ASC 2026**
 - **2026-10** &nbsp;New paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **PACLIC 2026**
-- **2026-10** &nbsp;Two papers accepted: "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" at **GAI-HyperI 2026** and "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" at **IEEE SWC 2026**
 - **2026-09** &nbsp;New paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **ACII 2026** (Late-Breaking Results, ACIIW proceedings)
+- **2026-09** &nbsp;New paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **GAI-HyperI 2026**
+- **2026-07** &nbsp;New paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **APSIPA ASC 2026**
+- **2026-07** &nbsp;New paper "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" accepted at **IEEE SWC 2026**
 - **2026-04** &nbsp;Started as **Assistant Professor** at the Graduate School of Informatics, Nagoya University
 - **2026-01** &nbsp;New paper "Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios" accepted at ISASE 2026
 - **2025-08** &nbsp;Received **Best Paper Nominee** at **SIGDIAL 2025**
@@ -167,7 +168,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 **Professional Memberships**
 
-IEEE, ACL, AAAC (Association for the Advancement of Affective Computing)
+IEEE, ACL, AAAC
 
 <h2 id="teaching-experiences">Teaching Experiences</h2>
 
