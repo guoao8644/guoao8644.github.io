@@ -23,6 +23,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="news">News</h2>
 
+- **2026-10** &nbsp;New paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **APSIPA ASC 2026**
 - **2026-10** &nbsp;New paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **PACLIC 2026**
 - **2026-10** &nbsp;Two papers accepted: "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" at **GAI-HyperI 2026** and "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" at **IEEE SWC 2026**
 - **2026-09** &nbsp;New paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **ACII 2026** (Late-Breaking Results, ACIIW proceedings)
@@ -67,6 +68,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h3 id="international-conferences">International Conferences</h3>
 
+- **[C41]** Kira Murase, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models,"** in Proc. of the 2026 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (**APSIPA ASC**), 2026. *(to appear)*
 - **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of the 14th Int'l Conf. on Affective Computing and Intelligent Interaction Workshops and Demos (**ACIIW**), Late-Breaking Results, 2026. [[Paper](https://doi.org/10.1109/aciiw71585.2026.11712086)]
 - **[C39]** Nozomi Tsunoda, Lifei Wang, Maho Sato, <u>Ao Guo</u>, Jianhua Ma. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios: Cross-game Evaluation and Individual Difference Analysis,"** International Symposium on Affective Science and Engineering (ISASE), 2026.
 - **[C38]** <u>Ao Guo</u>, Shota Mochizuki, Sanae Yamashita, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025. [[Paper](https://aclanthology.org/2025.ijcnlp-long.87/)]
