@@ -1,7 +1,7 @@
 ---
 permalink: /zh/activities/
-title: "报告与学术活动"
-excerpt: "报告与学术活动"
+title: "学术活动"
+excerpt: "学术活动"
 author_profile: true
 lang: zh
 page_id: activities
@@ -14,7 +14,7 @@ page_id: activities
 - **2024** &nbsp;&nbsp;Tutorial：*Generative AI: Techniques and Applications with Large Language Models*，[IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/)
 - **2024** &nbsp;&nbsp;Panel Coordinator：*Challenges for Generative AI and Hyper Intelligence*，[IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/)
 
-<h2 id="scientific-activities">学术服务</h2>
+<h2 id="academic-service">学术服务</h2>
 
 **学术委员会**
 

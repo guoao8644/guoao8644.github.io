@@ -1,7 +1,7 @@
 ---
 permalink: /ja/activities/
-title: "講演・学術活動"
-excerpt: "講演・学術活動"
+title: "学術活動"
+excerpt: "学術活動"
 author_profile: true
 lang: ja
 page_id: activities
@@ -14,7 +14,7 @@ page_id: activities
 - **2024** &nbsp;&nbsp;チュートリアル: *Generative AI: Techniques and Applications with Large Language Models*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/)
 - **2024** &nbsp;&nbsp;パネルコーディネーター: *Challenges for Generative AI and Hyper Intelligence*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/)
 
-<h2 id="scientific-activities">学術活動</h2>
+<h2 id="academic-service">学会活動</h2>
 
 **委員会**
 

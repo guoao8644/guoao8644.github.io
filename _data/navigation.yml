@@ -6,7 +6,7 @@ en:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Talks & Activities"
+  - title: "Activities"
     url: /activities/
   - title: "Teaching"
     url: /teaching/
@@ -20,7 +20,7 @@ ja:
     url: /ja/publications/
   - title: "研究プロジェクト"
     url: /ja/projects/
-  - title: "講演・学術活動"
+  - title: "学術活動"
     url: /ja/activities/
   - title: "教育"
     url: /ja/teaching/
@@ -34,7 +34,7 @@ zh:
     url: /zh/publications/
   - title: "科研项目"
     url: /zh/projects/
-  - title: "报告与学术活动"
+  - title: "学术活动"
     url: /zh/activities/
   - title: "教学"
     url: /zh/teaching/

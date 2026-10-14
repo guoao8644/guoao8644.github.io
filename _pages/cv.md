@@ -29,4 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;Support Program for Researchers Traveling Abroad, International Information Science Foundation (IISF).
 - **2016** &nbsp;&nbsp;Best Paper Award, 9th IEEE Int'l Conf. on Cyber Physical and Social Computing.
 
-*See also*: [Research Projects](/projects/) &nbsp;·&nbsp; [Teaching](/teaching/) &nbsp;·&nbsp; [Talks and Activities](/activities/) &nbsp;·&nbsp; [Publications](/publications/)
+*See also*: [Research Projects](/projects/) &nbsp;·&nbsp; [Teaching](/teaching/) &nbsp;·&nbsp; [Academic Activities](/activities/) &nbsp;·&nbsp; [Publications](/publications/)

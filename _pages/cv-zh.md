@@ -29,4 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;国际情报科学振兴财团（IISF）海外研究者派遣资助
 - **2016** &nbsp;&nbsp;最佳论文奖，IEEE 第 9 届网络、物理与社会计算国际会议
 
-*相关页面*：[科研项目](/zh/projects/) &nbsp;·&nbsp; [教学](/zh/teaching/) &nbsp;·&nbsp; [报告与学术活动](/zh/activities/) &nbsp;·&nbsp; [研究成果](/zh/publications/)
+*相关页面*：[科研项目](/zh/projects/) &nbsp;·&nbsp; [教学](/zh/teaching/) &nbsp;·&nbsp; [学术活动](/zh/activities/) &nbsp;·&nbsp; [研究成果](/zh/publications/)

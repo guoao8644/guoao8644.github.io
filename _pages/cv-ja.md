@@ -29,4 +29,4 @@ page_id: cv
 - **2017** &nbsp;&nbsp;海外渡航研究者支援プログラム（国際情報科学振興財団 IISF）
 - **2016** &nbsp;&nbsp;Best Paper Award, 9th IEEE Int'l Conf. on Cyber Physical and Social Computing
 
-*関連ページ*: [研究プロジェクト](/ja/projects/) &nbsp;·&nbsp; [教育](/ja/teaching/) &nbsp;·&nbsp; [講演・学術活動](/ja/activities/) &nbsp;·&nbsp; [業績](/ja/publications/)
+*関連ページ*: [研究プロジェクト](/ja/projects/) &nbsp;·&nbsp; [教育](/ja/teaching/) &nbsp;·&nbsp; [学術活動](/ja/activities/) &nbsp;·&nbsp; [業績](/ja/publications/)
