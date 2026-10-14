@@ -26,7 +26,7 @@ lang: ja
 - **2026-09** &nbsp;共著論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** に採択
 - **2026-07** &nbsp;共著論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **[APSIPA ASC 2026](https://www.apsipa2026.org/)** に採択
 - **2026-07** &nbsp;共著論文「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** に採択
-- **2026-04** &nbsp;名古屋大学大学院情報学研究科 **助教**に着任
+- **2026-04** &nbsp;名古屋大学大学院情報学研究科 **助教（テニュアトラック）**に着任
 
 <h2 id="research-interests">研究分野</h2>
 
@@ -39,7 +39,7 @@ lang: ja
 
 <h2 id="experience">職歴</h2>
 
-- **2026 年 4 月 – 現在**  &nbsp;&nbsp;名古屋大学大学院情報学研究科 知能システム学専攻 **助教**
+- **2026 年 4 月 – 現在**  &nbsp;&nbsp;名古屋大学大学院情報学研究科 知能システム学専攻 **助教（テニュアトラック）**
 - **2024 年 9 月 – 現在**  &nbsp;&nbsp;法政大学大学院理工学研究科 **兼任講師**
 - **2021 年 4 月 – 2026 年 3 月**  &nbsp;&nbsp;名古屋大学大学院情報学研究科 **博士研究員**
 

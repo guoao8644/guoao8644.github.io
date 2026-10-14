@@ -26,7 +26,7 @@ lang: zh
 - **2026-09** &nbsp;合著论文 "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" 被 **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** 录用
 - **2026-07** &nbsp;合著论文 "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" 被 **[APSIPA ASC 2026](https://www.apsipa2026.org/)** 录用
 - **2026-07** &nbsp;合著论文 "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" 被 **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** 录用
-- **2026-04** &nbsp;入职名古屋大学信息学研究科，担任 **助教（Assistant Professor）**
+- **2026-04** &nbsp;入职名古屋大学信息学研究科，担任 **助教（Tenure-Track Assistant Professor）**
 
 <h2 id="research-interests">研究方向</h2>
 
@@ -39,7 +39,7 @@ lang: zh
 
 <h2 id="experience">工作经历</h2>
 
-- **2026 年 4 月 – 至今**  &nbsp;&nbsp;名古屋大学 信息学研究科 智能系统学专攻 **助教**
+- **2026 年 4 月 – 至今**  &nbsp;&nbsp;名古屋大学 信息学研究科 智能系统学专攻 **助教（Tenure-Track）**
 - **2024 年 9 月 – 至今**  &nbsp;&nbsp;法政大学 理工学研究科 **兼任讲师**
 - **2021 年 4 月 – 2026 年 3 月**  &nbsp;&nbsp;名古屋大学 信息学研究科 **博士后研究员**
 

@@ -29,7 +29,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 - **2026-09** &nbsp;Co-authored paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **[GAI-HyperI 2026](https://gai-hyperi.github.io/)**
 - **2026-07** &nbsp;Co-authored paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **[APSIPA ASC 2026](https://www.apsipa2026.org/)**
 - **2026-07** &nbsp;Co-authored paper "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" accepted at **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)**
-- **2026-04** &nbsp;Started as **Assistant Professor** at the Graduate School of Informatics, Nagoya University
+- **2026-04** &nbsp;Started as **Assistant Professor (Tenure-Track)** at the Graduate School of Informatics, Nagoya University
 
 <h2 id="research-interests">Research Interests</h2>
 
@@ -42,7 +42,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="experience">Research Experience</h2>
 
-- **Apr 2026 – Present**  &nbsp;&nbsp;**Assistant Professor**, Department of Intelligent Systems, Graduate School of Informatics, Nagoya University
+- **Apr 2026 – Present**  &nbsp;&nbsp;**Assistant Professor (Tenure-Track)**, Department of Intelligent Systems, Graduate School of Informatics, Nagoya University
 - **Sep 2024 – Present**  &nbsp;&nbsp;**Part-time Lecturer**, Graduate School of Science and Engineering, Hosei University
 - **Apr 2021 – Mar 2026**  &nbsp;&nbsp;**Postdoctoral Researcher**, Graduate School of Informatics, Nagoya University
 
