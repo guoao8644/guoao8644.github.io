@@ -20,16 +20,12 @@ lang: ja
 
 <h2 id="news">お知らせ</h2>
 
-- **2026-10** &nbsp;論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **PACLIC 2026** に採択
-- **2026-09** &nbsp;論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **ACII 2026**（Late-Breaking Results, ACIIW 論文集）にて発表・出版
-- **2026-09** &nbsp;論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **GAI-HyperI 2026** に採択
-- **2026-07** &nbsp;論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **APSIPA ASC 2026** に採択
-- **2026-07** &nbsp;論文「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **IEEE SWC 2026** に採択
+- **2026-10** &nbsp;論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **[PACLIC 2026](https://paclic2026.github.io/)** に採択
+- **2026-09** &nbsp;論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results, ACIIW 論文集）にて発表・出版
+- **2026-09** &nbsp;論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** に採択
+- **2026-07** &nbsp;論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **[APSIPA ASC 2026](https://www.apsipa2026.org/)** に採択
+- **2026-07** &nbsp;論文「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** に採択
 - **2026-04** &nbsp;名古屋大学大学院情報学研究科 **助教**に着任
-- **2026-01** &nbsp;論文「Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios」が ISASE 2026 に採択
-- **2025-08** &nbsp;**SIGDIAL 2025** にて **Best Paper Nominee** を受賞
-- **2025-07** &nbsp;論文「User Personality and its Influence on the Performance of Pipeline and End-to-end Task-oriented Dialogue Systems」が **Scientific Reports** に掲載
-- **2025-04** &nbsp;科学研究費助成事業 若手研究（2025–2028）「移動対話ロボットのホスピタリティ向上に関する研究」採択（研究代表者）
 
 <h2 id="research-interests">研究分野</h2>
 
@@ -113,13 +109,13 @@ lang: ja
 - **[D10]** 阪井瞭介, Jiang Shuting, <u>郭傲</u>, 高道慎之介, 小川哲司, 東中竜一郎. 「一人称・三人称視点対話収録システムとエゴセントリック津軽弁音声対話コーパスの構築」言語処理学会 第32回年次大会 (NLP2026), 2026.
 - **[D9]** 江舒婷, <u>郭傲</u>, 青木剛, 中西美和, 東中竜一郎. 「フォーカシング対話の収集とLLMを用いたEXPスケールの自動評定」言語処理学会 第32回年次大会 (NLP2026), 2026.
 - **[D8]** 植竹眞斗, 窪田智徳, 岩﨑雅矢, 望月翔太, 山下紗苗, <u>郭傲</u>, 星牟禮健也, 馬場惇, 東中竜一郎, 佐藤理史. 「操作者と操作対象ロボットとの対話により長時間操作の退屈感を低減する遠隔操作システムの開発」人工知能学会全国大会 (JSAI2025), 2025. [[論文](https://doi.org/10.11517/pjsai.jsai2025.0_3q6gs802)]
-- **[D7]** Jingjing Jiang, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Classification of Emotional Valence Based on Physiological Signals in Conversations Using a Time-Series Model,"** 人工知能学会全国大会 (JSAI2025), 2025. [[論文](https://doi.org/10.11517/pjsai.jsai2025.0_3win555)]
+- **[D7]** 姜菁菁, <u>郭傲</u>, 東中竜一郎. 「対話中の生体信号を用いた時系列モデルによる感情分類」人工知能学会全国大会 (JSAI2025), 2025. [[論文](https://doi.org/10.11517/pjsai.jsai2025.0_3win555)]
 - **[D6]** 平井龍, <u>郭傲</u>, 東中竜一郎. 「タスク指向型対話システムへの項目反応理論の適用によるユーザのタスク達成能力の推定」言語処理学会 第30回年次大会 (NLP2024), 2024.
 - **[D5]** 山下紗苗, 井上昂治, <u>郭傲</u>, 望月翔太, 河原達也, 東中竜一郎. 「RealPersonaChat: 話者本人のペルソナと性格特性を含んだ雑談対話コーパス」言語処理学会 第30回年次大会 (NLP2024), 2024.
 - **[D4]** Zhiying Huang, <u>Ao Guo</u>, Jianhua Ma. **"A Comparative Study of Content Dependent and Independent Emotion Recognition using Convolutional Neural Network Based on DEAP Dataset,"** 人工知能学会全国大会 (JSAI2024), 2024. [[論文](https://doi.org/10.11517/pjsai.jsai2024.0_4q3is2d02)]
-- **[D3]** Jingjing Jiang, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Collection of Multimodal Dialogue Data Using Heterogeneous Sensors and Analysis of the Relationship between Sensor Information and Subjective Evaluation,"** 人工知能学会全国大会 (JSAI2024), 2024. [[論文](https://doi.org/10.11517/pjsai.jsai2024.0_4xin278)]
-- **[D2]** Kentaro Taki, <u>Ao Guo</u>, Jianhua Ma. **"Multilevel Classification of Drowsiness States Using Multimodal Physiological Signals,"** 人工知能学会全国大会 (JSAI2024), 2024. [[論文](https://doi.org/10.11517/pjsai.jsai2024.0_1b5gs203)]
-- **[D1]** Ryu Hirai, Atsumoto Ohashi, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Improving Utterance Understanding with a Tutorial in Task-oriented Dialogue Systems,"** 人工知能学会全国大会 (JSAI2022), 2022. [[論文](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2F4GS903/_article/-char/ja/)]
+- **[D3]** 姜菁菁, <u>郭傲</u>, 東中竜一郎. 「異種センサを用いたマルチモーダル対話データの収集とセンサ情報と主観評価の関係分析」人工知能学会全国大会 (JSAI2024), 2024. [[論文](https://doi.org/10.11517/pjsai.jsai2024.0_4xin278)]
+- **[D2]** 滝健太郎, <u>郭傲</u>, 馬建華. 「マルチモーダル生理信号データを用いた眠気状態の多レベル分類」人工知能学会全国大会 (JSAI2024), 2024. [[論文](https://doi.org/10.11517/pjsai.jsai2024.0_1b5gs203)]
+- **[D1]** 平井龍, 大橋厚元, <u>郭傲</u>, 東中竜一郎. 「タスク指向型対話システムにおけるチュートリアルを用いた発話理解の改善」人工知能学会全国大会 (JSAI2022), 2022. [[論文](https://doi.org/10.11517/pjsai.jsai2022.0_2f4gs903)]
 
 <h3 id="non-refereed">非査読論文</h3>
 
