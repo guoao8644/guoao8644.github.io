@@ -153,6 +153,7 @@ lang: ja
 
 **国際会議運営**
 
+- *オーガナイザ*: [対話システムライブコンペティション8](https://sites.google.com/view/dslc8/), 人工知能学会 言語・音声理解と対話処理研究会 (SIG-SLUD), 2026
 - *Program Chair*: IEEE CyberSciTech 2025 – 2026; IEEE PICom 2025; GAI-HyperI 2024 – 2026
 - *Track Chair*: IEEE PICom 2024
 - *Publication Chair*: IEEE CBDCom 2024; IEEE CyberSciTech 2024
