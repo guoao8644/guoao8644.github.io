@@ -62,7 +62,6 @@ lang: zh
 
 <h3 id="international-conferences">国际会议</h3>
 
-- **[C41]** Kira Murase, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models,"** in Proc. of **APSIPA ASC** 2026. *（待出版）*
 - **[C40]** Lifei Wang, <u>Ao Guo</u>, Jianhua Ma. **"An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data,"** in Proc. of **ACIIW** 2026 (ACII Late-Breaking Results). [[论文](https://doi.org/10.1109/aciiw71585.2026.11712086)]
 - **[C39]** Nozomi Tsunoda, Lifei Wang, Maho Sato, <u>Ao Guo</u>, Jianhua Ma. **"Subject-independent Bio-signal Fear Estimation in VR Horror Scenarios: Cross-game Evaluation and Individual Difference Analysis,"** ISASE 2026.
 - **[C38]** <u>Ao Guo</u>, Shota Mochizuki, Sanae Yamashita, Kenya Hoshimure, Jun Baba, Ryuichiro Higashinaka. **"A Comparative Study of Human-operated and AI-driven Guidance with a Teleoperated Mobile Robot,"** in Proc. of IJCNLP-AACL, 2025. [[论文](https://aclanthology.org/2025.ijcnlp-long.87/)]
