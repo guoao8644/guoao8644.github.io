@@ -9,7 +9,7 @@ page_id: activities
 
 <h2 id="invited-talks">特邀报告与教程</h2>
 
-- **2026** &nbsp;&nbsp;Tutorial：*Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*，[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)，墨尔本，2026 年 11 月（即将举行）
+- **2026** &nbsp;&nbsp;**<span style="color: #1a73a8;">[即将举行]</span>** Tutorial：*Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*，[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)，墨尔本，2026 年 11 月
 - **2025** &nbsp;&nbsp;特邀报告：*Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*，[室兰工业大学](https://events.vtools.ieee.org/m/492806)（IEEE 室兰工业大学学生分会与 IEEE 札幌分会 Young Professionals 联合主办）
 - **2024** &nbsp;&nbsp;Tutorial：*Generative AI: Techniques and Applications with Large Language Models*，[IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/)
 - **2024** &nbsp;&nbsp;Panel Coordinator：*Challenges for Generative AI and Hyper Intelligence*，[IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/)

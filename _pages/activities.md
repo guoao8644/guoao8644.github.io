@@ -9,7 +9,7 @@ page_id: activities
 
 <h2 id="invited-talks">Invited Talks and Tutorials</h2>
 
-- **2026** &nbsp;&nbsp;Tutorial: *Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*, [IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/), Melbourne, Australia, November 2026 (upcoming).
+- **2026** &nbsp;&nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Tutorial: *Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*, [IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/), Melbourne, Australia, November 2026.
 - **2025** &nbsp;&nbsp;Invited Talk: *Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*, [Muroran Institute of Technology](https://events.vtools.ieee.org/m/492806) (co-organized by the IEEE Muroran IT Student Branch and IEEE Sapporo Section Young Professionals).
 - **2024** &nbsp;&nbsp;Tutorial: *Generative AI: Techniques and Applications with Large Language Models*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/).
 - **2024** &nbsp;&nbsp;Panel Coordinator: *Challenges for Generative AI and Hyper Intelligence*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/).

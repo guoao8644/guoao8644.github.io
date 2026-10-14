@@ -24,7 +24,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="news">News</h2>
 
-- **2026-10** &nbsp;Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation" to be given at **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**, Melbourne, November 2026
+- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation" to be given at **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**, Melbourne, November 2026
 - **2026-10** &nbsp;Co-authored paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **[PACLIC 2026](https://paclic2026.github.io/)**
 - **2026-09** &nbsp;Co-authored paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **[ACII 2026](https://acii-conf.net/2026/)** (Late-Breaking Results, ACIIW proceedings)
 - **2026-09** &nbsp;Co-authored paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **[GAI-HyperI 2026](https://gai-hyperi.github.io/)**
