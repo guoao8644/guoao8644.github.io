@@ -15,7 +15,7 @@ page_id: home
 - **マルチモーダルなユーザ状態推定**：音声・テキスト・生体信号からユーザの感情・ストレス・行動・意図を推定し、システムが適切に応答するための状況認識を与える研究
 - **個性適応型対話システム**：各ユーザの性格を認識し、話し方・対話戦略・判断を個人に合わせて適応させる対話システムの実現
 
-所属は[名古屋大学 情報学研究科 東中竜一郎研究室](https://www.ds.is.i.nagoya-u.ac.jp/)で、これらの研究を実世界のヒューマンインタラクションへ統合する形で進めています。2021 年に法政大学にて情報科学博士号を取得後、名古屋大学で博士研究員を経て、2026 年 4 月より現職です。
+[名古屋大学大学院情報学研究科 東中竜一郎研究室](https://www.ds.is.i.nagoya-u.ac.jp/)の教員として、これらの研究を実世界のヒューマン・マシンインタラクションへ統合する形で進めています。2021 年に法政大学で情報科学の博士号を取得し、名古屋大学で博士研究員を務めた後、2026 年に助教に着任しました。
 
 連絡先：[guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=xBoUb2gAAAAJ) &nbsp;·&nbsp; [researchmap](https://researchmap.jp/guoao8644) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-8631-5457)
 

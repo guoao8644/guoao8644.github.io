@@ -15,7 +15,7 @@ page_id: home
 - **多模态用户状态估计**：从语音、文本和生理信号中估计用户的情感、压力、行为与意图，为系统提供恰当响应所需的情境感知能力
 - **人格自适应对话系统**：让对话系统识别每位用户的人格特征，并据此调整其说话风格、对话策略与决策
 
-我所在的实验室是[名古屋大学信息学研究科 東中竜一郎教授实验室](https://www.ds.is.i.nagoya-u.ac.jp/)，重点把以上方向汇聚于真实的人机交互场景中。2021 年于法政大学获得信息科学博士学位，随后在名古屋大学担任博士后研究员（2021–2026），于 2026 年 4 月起担任现职
+我是[名古屋大学信息学研究科 東中竜一郎教授实验室](https://www.ds.is.i.nagoya-u.ac.jp/)的教员，在这里把以上研究方向汇聚于真实的人机交互场景。2021 年于法政大学获得信息科学博士学位，随后在名古屋大学担任博士后研究员，2026 年起任助教。
 
 联系方式：[guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=xBoUb2gAAAAJ) &nbsp;·&nbsp; [researchmap](https://researchmap.jp/guoao8644) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-8631-5457)
 

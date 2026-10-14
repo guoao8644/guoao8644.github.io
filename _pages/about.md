@@ -18,7 +18,7 @@ Pursuing this vision, I work in three complementary directions, all centered on 
 - **Multimodal user state estimation**: estimating a user’s emotion, stress, behavior, and intent from speech, text, and physiological signals, giving the system the situational awareness it needs to respond appropriately.
 - **Personality-adaptive dialogue systems**: enabling dialogue systems to recognize each user’s personality and adapt their speaking style, strategy, and decisions to the individual.
 
-I am based in [Prof. Ryuichiro Higashinaka's Lab](https://www.ds.is.i.nagoya-u.ac.jp/) at the Graduate School of Informatics, [Nagoya University](https://www.nagoya-u.ac.jp/), where these threads come together in real-world human–machine interaction. I received my Ph.D. in Computer and Information Science from Hosei University in 2021, and worked as a Postdoctoral Researcher at Nagoya University from 2021 to 2026 before joining as a faculty member.
+I am a faculty member of [Prof. Ryuichiro Higashinaka’s laboratory](https://www.ds.is.i.nagoya-u.ac.jp/) at the Graduate School of Informatics, [Nagoya University](https://www.nagoya-u.ac.jp/), where these research threads come together in real-world human-machine interaction. I received my Ph.D. in Computer and Information Science from Hosei University in 2021 and worked as a Postdoctoral Researcher at Nagoya University from 2021 to 2025 before being appointed Assistant Professor in 2026.
 
 Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=xBoUb2gAAAAJ) &nbsp;·&nbsp; [researchmap](https://researchmap.jp/guoao8644) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-8631-5457)
 
