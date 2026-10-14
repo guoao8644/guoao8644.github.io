@@ -23,6 +23,7 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h2 id="news">News</h2>
 
+- **2026-10** &nbsp;Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation" to be given at **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**, Melbourne, November 2026
 - **2026-10** &nbsp;New paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **[PACLIC 2026](https://paclic2026.github.io/)**
 - **2026-09** &nbsp;New paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **[ACII 2026](https://acii-conf.net/2026/)** (Late-Breaking Results, ACIIW proceedings)
 - **2026-09** &nbsp;New paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **[GAI-HyperI 2026](https://gai-hyperi.github.io/)**
@@ -140,11 +141,12 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 - **2025 – 2028** &nbsp;&nbsp;**Principal Investigator** — *Research on Improving Hospitality of Mobile Dialogue Robots*, Japan Society for the Promotion of Science (JSPS) Grant-in-Aid for Scientific Research (Young Scientists).
 - **2014 – 2018** &nbsp;&nbsp;Research Collaborator — *Research and Development of a Cyber-I Open Service Platform*, JSPS Grants-in-Aid for Scientific Research (C).
 
-<h2 id="invited-talks">Invited Talks</h2>
+<h2 id="invited-talks">Invited Talks and Tutorials</h2>
 
-- **2025** &nbsp;&nbsp;*Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*, Muroran Institute of Technology.
-- **2024** &nbsp;&nbsp;*Generative AI: Techniques and Applications with Large Language Models*, IEEE CyberSciTech 2024.
-- **2024** &nbsp;&nbsp;Panelist, *Challenges for Generative AI and Hyper Intelligence*, IEEE CyberSciTech 2024.
+- **2026** &nbsp;&nbsp;Tutorial: *Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*, [IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/), Melbourne, Australia, November 2026 (upcoming).
+- **2025** &nbsp;&nbsp;Invited Talk: *Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*, [Muroran Institute of Technology](https://events.vtools.ieee.org/m/492806) (co-organized by the IEEE Muroran IT Student Branch and IEEE Sapporo Section Young Professionals).
+- **2024** &nbsp;&nbsp;Tutorial: *Generative AI: Techniques and Applications with Large Language Models*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/).
+- **2024** &nbsp;&nbsp;Panel Coordinator: *Challenges for Generative AI and Hyper Intelligence*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/).
 
 <h2 id="scientific-activities">Scientific Activities</h2>
 

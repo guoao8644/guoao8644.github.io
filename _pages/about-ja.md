@@ -20,6 +20,7 @@ lang: ja
 
 <h2 id="news">お知らせ</h2>
 
+- **2026-10** &nbsp;**[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**（メルボルン、2026 年 11 月）にてチュートリアル「Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation」を実施予定
 - **2026-10** &nbsp;論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **[PACLIC 2026](https://paclic2026.github.io/)** に採択
 - **2026-09** &nbsp;論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results, ACIIW 論文集）にて発表・出版
 - **2026-09** &nbsp;論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** に採択
@@ -137,11 +138,12 @@ lang: ja
 - **2025 – 2028** &nbsp;&nbsp;**研究代表者** — 「移動対話ロボットのホスピタリティ向上に関する研究」, 日本学術振興会 科学研究費助成事業 若手研究
 - **2014 – 2018** &nbsp;&nbsp;研究協力者 — *Research and Development of a Cyber-I Open Service Platform*, 日本学術振興会 科学研究費助成事業 基盤研究(C)
 
-<h2 id="invited-talks">招待講演</h2>
+<h2 id="invited-talks">招待講演・チュートリアル</h2>
 
-- **2025** &nbsp;&nbsp;*Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*, Muroran Institute of Technology
-- **2024** &nbsp;&nbsp;*Generative AI: Techniques and Applications with Large Language Models*, IEEE CyberSciTech 2024
-- **2024** &nbsp;&nbsp;Panelist, *Challenges for Generative AI and Hyper Intelligence*, IEEE CyberSciTech 2024
+- **2026** &nbsp;&nbsp;チュートリアル: *Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation*, [IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/), メルボルン, 2026 年 11 月（予定）
+- **2025** &nbsp;&nbsp;招待講演: *Towards Enhanced Dialogue Systems: Integrating Personality Modeling, Real-time Emotion Recognition, and Hospitality with Generative AI*, [室蘭工業大学](https://events.vtools.ieee.org/m/492806)（IEEE 室蘭工業大学 Student Branch・IEEE Sapporo Section Young Professionals 共催）
+- **2024** &nbsp;&nbsp;チュートリアル: *Generative AI: Techniques and Applications with Large Language Models*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/tutorial/)
+- **2024** &nbsp;&nbsp;パネルコーディネーター: *Challenges for Generative AI and Hyper Intelligence*, [IEEE CyberSciTech 2024](https://cyber-science.org/2024/panel/)
 
 <h2 id="scientific-activities">学術活動</h2>
 
