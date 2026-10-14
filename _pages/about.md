@@ -55,13 +55,13 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 
 <h3 id="journals">Journals</h3>
 
-- **[J8]** <u>Ao Guo</u>, Atsumoto Ohashi, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori, Ryuichiro Higashinaka. **"User Personality and its Influence on the Performance of Pipeline and End-to-end Task-oriented Dialogue Systems,"** *Scientific Reports*, 2025. [[Paper](https://doi.org/10.1038/s41598-025-07101-7)]
-- **[J7]** <u>Ao Guo</u>, Ryu Hirai, Atsumoto Ohashi, Yuya Chiba, Yuiko Tsunomori, Ryuichiro Higashinaka. **"Personality Prediction from Task-oriented and Open-domain Human–machine Dialogues,"** *Scientific Reports*, 2024. [[Paper](https://doi.org/10.1038/s41598-024-53989-y)]
-- **[J6]** Jiaoman Du, Jiandong Zhou, Xiang Li, Lei Li, <u>Ao Guo</u>. **"Integrated Self-driving Travel Scheme Planning,"** *International Journal of Production Economics*, 2021. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925527320303133)]
-- **[J5]** <u>Ao Guo</u>, Jianhua Ma, Guanqun Sun, Shunxiang Tan. **"A Personal Character Model of Affect, Behavior and Cognition for Individual-like Research,"** *Computers & Electrical Engineering*, 2020. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790618334852)]
-- **[J4]** <u>Ao Guo</u>, Jianhua Ma, Tan Shunxiang, Guanqun Sun. **"From Affect, Behavior, and Cognition to Personality: An Integrated Personal Character Model for Individual-like Intelligent Artifacts,"** *World Wide Web Journal*, 2019. [[Paper](https://link.springer.com/content/pdf/10.1007/s11280-019-00713-w.pdf)]
-- **[J3]** <u>Ao Guo</u>, Jianhua Ma. **"Archetype-based Modeling of Persona for Comprehensive Personality Computing from Personal Big Data,"** *Sensors*, 2018. [[Paper](https://www.mdpi.com/1424-8220/18/3/684)]
-- **[J2]** <u>Ao Guo</u>, Jianhua Ma. **"Context-aware Scheduling in Personal Data Collection from Multiple Wearable Devices,"** *IEEE Access*, 2017. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7847301)]
+- **[J7]** <u>Ao Guo</u>, Atsumoto Ohashi, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori, Ryuichiro Higashinaka. **"User Personality and its Influence on the Performance of Pipeline and End-to-end Task-oriented Dialogue Systems,"** *Scientific Reports*, 2025. [[Paper](https://doi.org/10.1038/s41598-025-07101-7)]
+- **[J6]** <u>Ao Guo</u>, Ryu Hirai, Atsumoto Ohashi, Yuya Chiba, Yuiko Tsunomori, Ryuichiro Higashinaka. **"Personality Prediction from Task-oriented and Open-domain Human–machine Dialogues,"** *Scientific Reports*, 2024. [[Paper](https://doi.org/10.1038/s41598-024-53989-y)]
+- **[J5]** Jiaoman Du, Jiandong Zhou, Xiang Li, Lei Li, <u>Ao Guo</u>. **"Integrated Self-driving Travel Scheme Planning,"** *International Journal of Production Economics*, 2021. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925527320303133)]
+- **[J4]** <u>Ao Guo</u>, Jianhua Ma, Guanqun Sun, Shunxiang Tan. **"A Personal Character Model of Affect, Behavior and Cognition for Individual-like Research,"** *Computers & Electrical Engineering*, 2020. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790618334852)]
+- **[J3]** <u>Ao Guo</u>, Jianhua Ma, Tan Shunxiang, Guanqun Sun. **"From Affect, Behavior, and Cognition to Personality: An Integrated Personal Character Model for Individual-like Intelligent Artifacts,"** *World Wide Web Journal*, 2019. [[Paper](https://link.springer.com/content/pdf/10.1007/s11280-019-00713-w.pdf)]
+- **[J2]** <u>Ao Guo</u>, Jianhua Ma. **"Archetype-based Modeling of Persona for Comprehensive Personality Computing from Personal Big Data,"** *Sensors*, 2018. [[Paper](https://www.mdpi.com/1424-8220/18/3/684)]
+- **[J1]** <u>Ao Guo</u>, Jianhua Ma. **"Context-aware Scheduling in Personal Data Collection from Multiple Wearable Devices,"** *IEEE Access*, 2017. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7847301)]
 
 <h3 id="international-conferences">International Conferences</h3>
 
