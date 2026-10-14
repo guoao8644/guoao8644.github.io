@@ -22,10 +22,10 @@ page_id: home
 <h2 id="news">お知らせ</h2>
 
 - **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**（メルボルン、2026 年 11 月）にてチュートリアル「Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation」を実施予定
-- **2026-10** &nbsp;共著論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **[PACLIC 2026](https://paclic2026.github.io/)** に採択
+- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** 共著論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **[PACLIC 2026](https://paclic2026.github.io/)** に採択
 - **2026-09** &nbsp;共著論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results, ACIIW 論文集）にて発表・出版
-- **2026-09** &nbsp;共著論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** に採択
-- **2026-07** &nbsp;共著論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **[APSIPA ASC 2026](https://www.apsipa2026.org/)** に採択
+- **2026-09** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** 共著論文「Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data」が **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** に採択
+- **2026-07** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** 共著論文「Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models」が **[APSIPA ASC 2026](https://www.apsipa2026.org/)** に採択
 - **2026-07** &nbsp;共著論文「Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration」が **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** に採択
 - **2026-04** &nbsp;名古屋大学大学院情報学研究科 **助教（テニュアトラック）**に着任
 
