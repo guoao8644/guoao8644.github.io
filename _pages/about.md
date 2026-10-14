@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-My research is driven by a vision of a **human–machine symbiotic society** — a world in which robots and AI dialogue systems live alongside people as genuine partners, understanding each user as an individual and adapting to them as naturally as a human companion would.
+My research is driven by a vision of a **human-machine symbiotic society**: a world in which robots and AI dialogue systems live alongside people as genuine partners, understanding each user as an individual and adapting to them as naturally as a human companion would.
 
-Pursuing this vision, I work across several complementary directions, all centered on the same question: *how can a machine truly understand a person, and act in a way that supports them?*
+Pursuing this vision, I work in three complementary directions, all centered on one question: *how can a machine truly understand a person, and act in a way that supports them?*
 
-- **Mobile robot guidance with hospitality** — designing service robots that guide and assist users in real environments with the warmth and adaptability of a human host. This direction is supported by the JSPS Grant-in-Aid for Young Scientists project *Research on Improving Hospitality of Mobile Dialogue Robots* (2025–2028, Principal Investigator).
-- **Personality-aware dialogue systems** — making dialogue systems recognize each user's personality and adapt how they speak and decide accordingly.
-- **User Modeling** — modeling user emotion, stress, behavior, and intent from multimodal signals (speech, text, biosignals) to give AI the situational awareness it needs.
+- **Hospitable mobile guide robots**: designing service robots that guide and assist people in real environments, such as aquariums and museums, with the warmth and adaptability of a human host. This direction is supported by the JSPS Grant-in-Aid for Young Scientists project “Research on Improving Hospitality of Mobile Dialogue Robots” (2025 to 2028, Principal Investigator).
+- **Multimodal user state estimation**: estimating a user’s emotion, stress, behavior, and intent from speech, text, and physiological signals, giving the system the situational awareness it needs to respond appropriately.
+- **Personality-adaptive dialogue systems**: enabling dialogue systems to recognize each user’s personality and adapt their speaking style, strategy, and decisions to the individual.
 
 I am based in [Prof. Ryuichiro Higashinaka's Lab](https://www.ds.is.i.nagoya-u.ac.jp/) at the Graduate School of Informatics, [Nagoya University](https://www.nagoya-u.ac.jp/), where these threads come together in real-world human–machine interaction. I received my Ph.D. in Computer and Information Science from Hosei University in 2021, and worked as a Postdoctoral Researcher at Nagoya University from 2021 to 2026 before joining as a faculty member.
 
