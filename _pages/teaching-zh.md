@@ -18,4 +18,4 @@ page_id: teaching
 
 **[基于大语言模型的生成式 AI](https://syllabus.hosei.ac.jp/web/preview.php?no_id=2514978&nendo=2025&gakubueng=EV&t_mode=pc&radd=)**（大規模言語モデルを用いた生成型AI / Generative AI with Large Language Models）
 
-我独立设计并讲授的研究生课程。以大语言模型（LLM）为核心，帮助学生系统理解生成式 AI：既讲授 LLM 的基本原理，也通过实践练习掌握实现、微调与评估的方法，并介绍其在对话系统等研究领域中的应用。学生需自行构建 LLM 应用并完成期末项目汇报，目标是能够把 LLM 用于自己的研究。
+2024 年新开设的研究生课程。内容包括大语言模型（LLM）的基本原理，实现、微调与评估的实践练习，以及在对话系统等研究领域中的应用；课程最后由学生自行构建 LLM 应用并完成期末项目汇报。课程旨在帮助学生系统理解以 LLM 为核心的生成式 AI，并能够将 LLM 应用到自己的研究中。
