@@ -21,6 +21,7 @@ page_id: home
 
 <h2 id="news">お知らせ</h2>
 
+- **2026-10** &nbsp;**[HAI-Q 2026](https://gai-hyperi.github.io/2026/HAI-Q.html)**（Hyper/Super AI Questions Initiative, GAI-HyperI 2026 の公開企画）のオーガナイザを務める
 - **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**（メルボルン、2026 年 11 月）にてチュートリアル「Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation」を実施予定
 - **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** 共著論文「Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives」が **[PACLIC 2026](https://paclic2026.github.io/)** に採択
 - **2026-09** &nbsp;共著論文「An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data」が **[ACII 2026](https://acii-conf.net/2026/)**（Late-Breaking Results, ACIIW 論文集）にて発表・出版

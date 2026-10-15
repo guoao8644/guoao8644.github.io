@@ -22,7 +22,7 @@ page_id: activities
 
 **国際会議運営**
 
-- *オーガナイザ*: [対話システムライブコンペティション8](https://sites.google.com/view/dslc8/), 2026
+- *オーガナイザ*: [HAI-Q 2026](https://gai-hyperi.github.io/2026/HAI-Q.html)（Hyper/Super AI Questions Initiative, GAI-HyperI 2026 の公開企画）; [対話システムライブコンペティション8](https://sites.google.com/view/dslc8/), 2026
 - *Program Chair*: [IEEE CyberSciTech 2025](https://cyber-science.org/2025/cyberscitech/), [IEEE CyberSciTech 2026](https://cyber-science.org/2026/cyberscitech/); [IEEE PICom 2025](https://cyber-science.org/2025/picom/); [GAI-HyperI 2024 – 2026](https://gai-hyperi.github.io/)
 - *Track Chair*: [IEEE PICom 2024](https://cyber-science.org/2024/picom/)
 - *Publication Chair*: [IEEE CBDCom 2024](https://cyber-science.org/2024/cbdcom/); [IEEE CyberSciTech 2024](https://cyber-science.org/2024/cyberscitech/)
