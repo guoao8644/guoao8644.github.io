@@ -12,7 +12,7 @@ page_id: home
 
 My research is driven by a vision of a **human-machine symbiotic society**: a world in which robots and AI dialogue systems live alongside people as genuine partners, understanding each user as an individual and adapting to them as naturally as a human companion would.
 
-Pursuing this vision, I work in three complementary directions, all centered on one question: *how can a machine truly understand a person, and act in a way that supports them?*
+Pursuing this vision, I work in three complementary directions, all centered on one question: *how can a machine truly understand a person, and collaborate with, assist, and serve them at the right moment and in the way that suits them best?*
 
 - **Hospitable mobile guide robots**: designing service robots that guide and assist people in real environments, such as aquariums and museums, with the warmth and adaptability of a human host. This direction is supported by the JSPS Grant-in-Aid for Early-Career Scientists project [“Research on Improving Hospitality of Mobile Dialogue Robots”](/projects/) (2025 to 2028, Principal Investigator).
 - **Multimodal user state estimation**: estimating a user’s emotion, stress, behavior, and intent from speech, text, and physiological signals, giving the system the situational awareness it needs to respond appropriately.
