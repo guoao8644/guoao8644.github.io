@@ -25,12 +25,12 @@ Contact: [guo@i.nagoya-u.ac.jp](mailto:guo@i.nagoya-u.ac.jp) &nbsp;·&nbsp; [Goo
 <h2 id="news">News</h2>
 
 - **2026-10** &nbsp;Serving as Organizer of **[HAI-Q 2026](https://gai-hyperi.github.io/2026/HAI-Q.html)** (Hyper/Super AI Questions Initiative), an open event in GAI-HyperI 2026
-- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation" to be given at **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**, Melbourne, November 2026
-- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **[PACLIC 2026](https://paclic2026.github.io/)**
-- **2026-09** &nbsp;Co-authored paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **[ACII 2026](https://acii-conf.net/2026/)** (Late-Breaking Results, ACIIW proceedings)
-- **2026-09** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **[GAI-HyperI 2026](https://gai-hyperi.github.io/)**
-- **2026-07** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **[APSIPA ASC 2026](https://www.apsipa2026.org/)**
-- **2026-07** &nbsp;Co-authored paper "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" accepted at **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)**
+- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Tutorial "Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation" to be given at **[IEEE CyberSciTech 2026](https://cyber-science.org/2026/tutorial/)**, Melbourne, Australia, November 9–13, 2026
+- **2026-10** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Multimodal Tsugaru-dialect spoken dialogue corpus with egocentric and exocentric perspectives" accepted at **[PACLIC 2026](https://paclic2026.github.io/)** (Taipei, Taiwan, December 10–12, 2026)
+- **2026-09** &nbsp;Co-authored paper "An Empirical Study for Effective LLM-Based Human-State Prediction from Physiological Data" published at **[ACII 2026](https://acii-conf.net/2026/)** (Puebla, Mexico, September 7–10, 2026; Late-Breaking Results, ACIIW proceedings)
+- **2026-09** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Toward Human-State Inferability in LLM-Based Classification Using Multimodal Wearable Data" accepted at **[GAI-HyperI 2026](https://gai-hyperi.github.io/)** (Melbourne, Australia, November 9–13, 2026)
+- **2026-07** &nbsp;**<span style="color: #1a73a8;">[Upcoming]</span>** Co-authored paper "Zero-Shot Dialogue Breakdown Detection in Human–Robot Spoken Interactions Using Multimodal Large Language Models" accepted at **[APSIPA ASC 2026](https://www.apsipa2026.org/)** (Bangkok, Thailand, November 9–12, 2026)
+- **2026-07** &nbsp;Co-authored paper "Evaluating Cross-Video Emotion Recognition in EEG with Comparative Study and Factor Exploration" accepted at **[IEEE SWC 2026](https://swc-ieee-2026.github.io/)** (Rende, Italy, September 7–11, 2026)
 - **2026-04** &nbsp;Started as **Assistant Professor (Tenure-Track)** at the Graduate School of Informatics, Nagoya University
 
 <h2 id="research-interests">Research Interests</h2>
